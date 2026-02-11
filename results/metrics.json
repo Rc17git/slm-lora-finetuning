@@ -1,0 +1,19 @@
+{
+  "base_model": {
+    "eval_loss": 2.124366044998169,
+    "perplexity": 8.367591130058685
+  },
+  "lora_finetuned": {
+    "eval_loss": 1.6979929208755493,
+    "perplexity": 5.462971764349704
+  },
+  "lora_finetuned_v1(r=16,samples=1500)": {
+    "Eval Loss": 1.6951563358306885,    
+    "Perplexity": 5.447497537698147
+  },
+  "lora_finetuned_v1(r=16,samples=30000)": {
+    "Eval Loss": 1.6881675720214844,
+    "Perplexity": 5.409558990248326
+  }
+
+}
